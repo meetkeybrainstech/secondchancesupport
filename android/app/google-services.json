@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "34481432419",
+    "project_id": "homeless-399009",
+    "storage_bucket": "homeless-399009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34481432419:android:2e3a8f24306cc8b2015556",
+        "android_client_info": {
+          "package_name": "com.example.homeless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34481432419-t0304idetccafes7ba9q70j3jsv9na7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeless",
+            "certificate_hash": "74e453bdf51ac5533074ee6d5e61fb2f4a6dc0d3"
+          }
+        },
+        {
+          "client_id": "34481432419-g1v0ufgg57il2inink58rdrrscj10ui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PFDgk8p54u3OsguvLruOUx_2cy9LlRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34481432419-g1v0ufgg57il2inink58rdrrscj10ui6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34481432419-7rs82u96n4hg5u17m2u0j0d94ocp6oqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homelessadmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34481432419:android:15683a7fe6160ed2015556",
+        "android_client_info": {
+          "package_name": "com.example.homelessadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34481432419-g1v0ufgg57il2inink58rdrrscj10ui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PFDgk8p54u3OsguvLruOUx_2cy9LlRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34481432419-g1v0ufgg57il2inink58rdrrscj10ui6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34481432419-7rs82u96n4hg5u17m2u0j0d94ocp6oqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homelessadmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34481432419:android:c2995bcb731743d0015556",
+        "android_client_info": {
+          "package_name": "com.example.homelessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34481432419-g1v0ufgg57il2inink58rdrrscj10ui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PFDgk8p54u3OsguvLruOUx_2cy9LlRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34481432419-g1v0ufgg57il2inink58rdrrscj10ui6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34481432419-7rs82u96n4hg5u17m2u0j0d94ocp6oqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homelessadmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34481432419:android:87dffef8e6c2707a015556",
+        "android_client_info": {
+          "package_name": "com.sparrowSofttech.homeless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34481432419-g1v0ufgg57il2inink58rdrrscj10ui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PFDgk8p54u3OsguvLruOUx_2cy9LlRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34481432419-g1v0ufgg57il2inink58rdrrscj10ui6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34481432419-7rs82u96n4hg5u17m2u0j0d94ocp6oqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homelessadmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
